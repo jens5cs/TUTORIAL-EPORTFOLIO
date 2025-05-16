@@ -396,9 +396,9 @@ padding: 8px;
 }
 
 .project__description--link {
-  font-size: 20px;
+   font-size: 20px;
   margin-right: 16px;
-  }
+   }
 
 .project__description--title,
 .project__description--sub-title,
